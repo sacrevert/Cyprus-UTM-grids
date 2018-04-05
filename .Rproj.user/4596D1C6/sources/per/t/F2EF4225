@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518713480549.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2785635131",
+    "id" : "F2EF4225",
+    "lastKnownWriteTime" : 1518899075,
+    "last_content_update" : 1518899075569,
+    "path" : "W:/PYWELL_SHARED/Pywell Projects/BRC/Oli Pescott/147 Cyprus - new grid/Cyp_grid/scripts/edit_grid.R",
+    "project_path" : "scripts/edit_grid.R",
+    "properties" : {
+        "cursorPosition" : "72,0",
+        "scrollLine" : "35"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
