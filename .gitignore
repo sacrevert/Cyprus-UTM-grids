@@ -1,2 +1,2 @@
-.Rproj.user
-data/GADM*
+.Rproj.user/*
+data/*.rds
